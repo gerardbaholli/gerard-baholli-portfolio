@@ -1,0 +1,112 @@
+{
+  "keywords": [
+    {
+      "it-word": "rapidità",
+      "en-word": "haste",
+      "it-description": "Abilità che consente a una creatura di attaccare o utilizzare abilità che richiedono TAP nello stesso turno in cui è entrata in campo.",
+      "en-description": "Ability that allows a creature to attack or use abilities that require TAP the same turn it enters the battlefield."
+    },
+    {
+      "it-word": "volare",
+      "en-word": "flying",
+      "it-description": "Abilità che consente a una creatura di essere bloccata solo da altre creature con volare o raggiungere.",
+      "en-description": "Ability that allows a creature to be blocked only by creatures with flying or reach."
+    },
+    {
+      "it-word": "attacco improvviso",
+      "en-word": "first strike",
+      "it-description": "Abilità che permette a una creatura di infliggere danno da combattimento prima delle creature senza questa abilità.",
+      "en-description": "Ability that lets a creature deal combat damage before creatures without this ability."
+    },
+    {
+      "it-word": "doppio attacco",
+      "en-word": "double strike",
+      "it-description": "Abilità che permette a una creatura di infliggere sia danno da attacco improvviso che danno normale.",
+      "en-description": "Ability that lets a creature deal both first strike and regular damage."
+    },
+    {
+      "it-word": "minacciare",
+      "en-word": "menace",
+      "it-description": "Abilità che richiede almeno due creature per bloccare questa creatura.",
+      "en-description": "Ability that requires at least two creatures to block this creature."
+    },
+    {
+      "it-word": "travolgere",
+      "en-word": "trample",
+      "it-description": "Abilità che permette a una creatura di assegnare il danno in eccesso al giocatore o al planeswalker in difesa se viene bloccata.",
+      "en-description": "Ability that lets a creature assign excess damage to the defending player or planeswalker if blocked."
+    },
+    {
+      "it-word": "indistruttibile",
+      "en-word": "indestructible",
+      "it-description": "Abilità che impedisce a una creatura o permanente di essere distrutto da effetti che causano distruzione.",
+      "en-description": "Ability that prevents a creature or permanent from being destroyed by effects that cause destruction."
+    },
+    {
+      "it-word": "raggiungere",
+      "en-word": "reach",
+      "it-description": "Abilità che consente a una creatura di bloccare creature con volare.",
+      "en-description": "Ability that allows a creature to block creatures with flying."
+    },
+    {
+      "it-word": "tocco letale",
+      "en-word": "deathtouch",
+      "it-description": "Abilità che consente a una creatura di distruggere qualsiasi creatura a cui infligge danno, indipendentemente dalla quantità di danno inflitto.",
+      "en-description": "Ability that lets a creature destroy any creature it deals damage to, regardless of the amount of damage dealt."
+    },
+    {
+      "it-word": "legame vitale",
+      "en-word": "lifelink",
+      "it-description": "Abilità che consente a una creatura di far guadagnare al suo controllore un ammontare di punti vita pari al danno inflitto dalla creatura.",
+      "en-description": "Ability that lets a creature's controller gain an amount of life equal to the damage dealt by the creature."
+    },
+    {
+      "it-word": "veleno",
+      "en-word": "poison",
+      "it-description": "Abilità che permette a una creatura di assegnare segnalini veleno al giocatore avversario. Un giocatore con 10 o più segnalini veleno perde la partita.",
+      "en-description": "Ability that lets a creature give poison counters to an opponent. A player with 10 or more poison counters loses the game."
+    },
+    {
+      "it-word": "protezione",
+      "en-word": "protection",
+      "it-description": "Abilità che impedisce a un permanente di essere influenzato da certi tipi di fonti.",
+      "en-description": "Ability that prevents a permanent from being affected by certain types of sources."
+    },
+    {
+      "it-word": "ombra",
+      "en-word": "shadow",
+      "it-description": "Abilità che consente a una creatura di essere bloccata solo da altre creature con ombra e di bloccare solo creature con ombra.",
+      "en-description": "Ability that allows a creature to be blocked only by creatures with shadow and to block only creatures with shadow."
+    },
+    {
+      "it-word": "frenesia",
+      "en-word": "frenzy",
+      "it-description": "Abilità che conferisce un bonus di forza a una creatura quando attacca e non viene bloccata.",
+      "en-description": "Ability that gives a creature a power bonus when it attacks and isn't blocked."
+    },
+    {
+      "it-word": "rigenerare",
+      "en-word": "regenerate",
+      "it-description": "Abilità che permette di prevenire la distruzione di una creatura rimettendola in piedi e rimuovendo tutti i danni.",
+      "en-description": "Ability that prevents a creature's destruction by tapping it and removing all damage."
+    },
+    {
+      "it-word": "esilio",
+      "en-word": "exile",
+      "it-description": "Abilità che rimuove una carta dal gioco mettendola in una zona separata.",
+      "en-description": "Ability that removes a card from the game by placing it in a separate zone."
+    },
+    {
+      "it-word": "assalto improvviso",
+      "en-word": "flash",
+      "it-description": "Abilità che permette di lanciare una magia come se avesse velocità istantanea.",
+      "en-description": "Ability that allows you to cast a spell as though it had instant speed."
+    },
+    {
+      "it-word": "congelare",
+      "en-word": "frost",
+      "it-description": "Abilità che impedisce a una creatura di STAPparsi durante il prossimo turno del suo controllore.",
+      "en-description": "Ability that prevents a creature from untapping during its controller's next turn."
+    }
+  ]
+}
