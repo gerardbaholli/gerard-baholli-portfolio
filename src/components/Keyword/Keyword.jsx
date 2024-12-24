@@ -1,12 +1,15 @@
 import PropTypes from 'prop-types';
+import "./Keyword.css";
 
 function Keyword({ keyword, highlightMatch }) {
     return (
         <div className="keyword-card">
-            <h3>
+            <div className='keyword-card-title'>
                 {highlightMatch(keyword['it-word'])} - {highlightMatch(keyword['en-word'])}
-            </h3>
-            <p>{keyword['it-description']}</p>
+            </div>
+            <div className='keyword-card-description'>
+                {keyword['it-description']}
+            </div>
         </div>
     );
 }
