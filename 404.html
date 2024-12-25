@@ -6,7 +6,9 @@
   <body>
     <script>
       const pathname = window.location.pathname.replace("/gerard-baholli-portfolio", "");
-      window.location.href = `/gerard-baholli-portfolio${pathname}`;
+      if (pathname !== "/") {
+        window.location.href = `/gerard-baholli-portfolio${pathname}`;
+      }
     </script>
   </body>
 </html>
