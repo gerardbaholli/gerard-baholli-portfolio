@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="0; URL=/" />
+    <title>404 Not Found</title>
   </head>
   <body>
     <script>
-      const pathname = window.location.pathname.replace("/", "");ù
-      console.log("404.html");
-      if (pathname !== "/") {
-        window.location.href = `/${pathname}`;
-      }
+      // Rileva se ci sono pagine non trovate e reindirizza alla home
+      console.log("404 Not Found - Redirecting to Home");
+      window.location.href = '/';
     </script>
   </body>
 </html>
