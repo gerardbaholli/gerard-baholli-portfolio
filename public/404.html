@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; URL=/" />
+  </head>
+  <body>
+    <script>
+      const pathname = window.location.pathname.replace("/gerard-baholli-portfolio", "");ù
+      console.log("404.html");
+      if (pathname !== "/") {
+        window.location.href = `/gerard-baholli-portfolio${pathname}`;
+      }
+    </script>
+  </body>
+</html>
