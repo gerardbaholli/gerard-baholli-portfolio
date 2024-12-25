@@ -3,11 +3,18 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div>
-      <h1>Benvenuto alla Homepage!</h1>
-      <p>
-        Per vedere tutti i progetti, clicca 
-        <Link to="/projects"> qui</Link>.
-      </p>
+      <div>
+        gerard baholli
+      </div>
+      <div>
+        <Link to="/portfolio">portfolio</Link>
+      </div>
+      <div>
+        <Link to="/utils">utils</Link>
+      </div>
+      <div>
+        <Link to="/contact">contact</Link>
+      </div>
     </div>
   );
 }
