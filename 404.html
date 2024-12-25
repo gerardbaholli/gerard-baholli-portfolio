@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="0; URL=/" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>404 Not Found</title>
+    <script>
+      // Reindirizza a index.html per tutte le rotte
+      window.location.replace('/index.html');
+    </script>
   </head>
   <body>
-    <script>
-      // Rileva se ci sono pagine non trovate e reindirizza alla home
-      console.log("404 Not Found - Redirecting to Home");
-      window.location.href = '/';
-    </script>
+    <h1>404 - Not Found</h1>
   </body>
 </html>
